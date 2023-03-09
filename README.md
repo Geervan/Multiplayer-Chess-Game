@@ -4,4 +4,4 @@ How to run locally
 2. open terminal and run 'npm install'
 3. run npm start
 
-[Chess](https://geervan-chessapp-web.herokuapp.com/)
+[Chess](https://Online-multiplayer-chess-website.geervan.repl.co)
